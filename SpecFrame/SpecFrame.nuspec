@@ -7,7 +7,7 @@
     <authors>nandyu</authors>
     <owners>nandyu</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
+    <description>nuget package for specframe</description>
     <copyright>Copyright 2016</copyright>
     <dependencies></dependencies>
   </metadata>
