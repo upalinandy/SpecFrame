@@ -123,7 +123,7 @@ this.FeatureBackground();
                 "source:specflowdata.xlsx"}, SourceLine=0)]
         public virtual void AddItemIntoCartUsingExcel_Variant0()
         {
-            this.AddItemIntoCartUsingExcel("testdemo372@gmail.com", "india123", "iphone ", "iphone 6s", "Amazon.in: iphone 6s - Smartphones / Smartphones & Basic Mobiles: Electronics", "Apple iPhone 6s (Rose Gold, 16GB)", new string[] {
+            this.AddItemIntoCartUsingExcel("nandyupali@gmail.com", "ganesha123", "iphone ", "iphone 6s", "Amazon.in: iphone 6s - Smartphones / Smartphones & Basic Mobiles: Electronics", "Apple iPhone 6s (Rose Gold, 16GB)", new string[] {
                         "source:specflowdata.xlsx"});
 #line hidden
         }
@@ -133,7 +133,7 @@ this.FeatureBackground();
                 "source:specflowdata.xlsx"}, SourceLine=0)]
         public virtual void AddItemIntoCartUsingExcel_Variant1()
         {
-            this.AddItemIntoCartUsingExcel("testdemo372@gmail.com", "india123", "moto g", "moto g4 plus", "Amazon.in: moto g4 plus - Smartphones / Smartphones & Basic Mobiles: Electronics", "Moto G Plus, 4th Gen (Black, 32 GB)", new string[] {
+            this.AddItemIntoCartUsingExcel("nandyupali@gmail.com", "ganesha123", "moto g", "moto g4 plus", "Amazon.in: moto g4 plus - Smartphones / Smartphones & Basic Mobiles: Electronics", "Moto G Plus, 4th Gen (Black, 32 GB)", new string[] {
                         "source:specflowdata.xlsx"});
 #line hidden
         }
