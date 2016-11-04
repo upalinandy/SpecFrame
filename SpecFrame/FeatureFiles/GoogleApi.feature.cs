@@ -72,7 +72,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 7
  testRunner.When("The client Gets response by \"1600+Amphitheatre+Parkway,+Mountain+View,+CA\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 8
- testRunner.Then("The \"37.4223329\" and \"-122.0844192\" returned should be as expected", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then("The \"37.4223664\" and \"-122.084406\" returned should be as expected", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             this.ScenarioCleanup();
         }
