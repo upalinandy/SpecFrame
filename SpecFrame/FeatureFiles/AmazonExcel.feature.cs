@@ -118,22 +118,12 @@ this.FeatureBackground();
             this.ScenarioCleanup();
         }
         
-        [TechTalk.SpecRun.ScenarioAttribute("Add item into cart using Excel, Variant 0", new string[] {
+        [TechTalk.SpecRun.ScenarioAttribute("Add item into cart using Excel, xxxxxx", new string[] {
                 "excelsheet",
                 "source:specflowdata.xlsx"}, SourceLine=0)]
-        public virtual void AddItemIntoCartUsingExcel_Variant0()
+        public virtual void AddItemIntoCartUsingExcel_Xxxxxx()
         {
-            this.AddItemIntoCartUsingExcel("nandyupali@gmail.com", "ganesha123", "iphone ", "iphone 6s", "Amazon.in: iphone 6s - Smartphones / Smartphones & Basic Mobiles: Electronics", "Apple iPhone 6s (Rose Gold, 16GB)", new string[] {
-                        "source:specflowdata.xlsx"});
-#line hidden
-        }
-        
-        [TechTalk.SpecRun.ScenarioAttribute("Add item into cart using Excel, Variant 1", new string[] {
-                "excelsheet",
-                "source:specflowdata.xlsx"}, SourceLine=0)]
-        public virtual void AddItemIntoCartUsingExcel_Variant1()
-        {
-            this.AddItemIntoCartUsingExcel("nandyupali@gmail.com", "ganesha123", "moto g", "moto g4 plus", "Amazon.in: moto g4 plus - Smartphones / Smartphones & Basic Mobiles: Electronics", "Moto G Plus, 4th Gen (Black, 32 GB)", new string[] {
+            this.AddItemIntoCartUsingExcel("xxxxxx", "xxxxxxx", "aaaa", "ssss", "ddddd", "", new string[] {
                         "source:specflowdata.xlsx"});
 #line hidden
         }
